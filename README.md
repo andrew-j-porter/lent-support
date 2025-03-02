@@ -1,4 +1,4 @@
-# lent-support
+# Lent 
 Welcome to the support page for Lent.
 
 ## Contact Support
